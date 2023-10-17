@@ -2,11 +2,11 @@
 
 Welcome to LetsCook, a recipe management system designed to make your cooking experience more organized and efficient. This repository contains the source code for the LetsCook system, which allows users to create, manage, and execute recipes, annotate their cooking process, and generate printable recipe documents. Whether you're a culinary enthusiast or a casual cook, LetsCook is here to simplify your cooking journey.
 
-# Project Description
+## Project Description
 
 The LetsCook project is an extensive endeavor that involves designing and implementing a recipe management system. Users can create and update recipes, execute them step by step, and persist recipes as JSON files. The project includes a command-line interface, ensuring flexibility for users.
 
-# Key Features
+### Key Features
 
 - Recipe Management: Create, update, and organize recipes with detailed steps, ingredients, and annotations.
 - Recipe Execution: Execute recipes step by step, check ingredient availability, and annotate thoughts and variations during cooking.
