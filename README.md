@@ -4,7 +4,7 @@ Welcome to LetsCook, a recipe management system designed to make your cooking ex
 
 ## Project Description
 
-The LetsCook project is an extensive endeavor that involves designing and implementing a recipe management system. Users can create and update recipes, execute them step by step, and persist recipes as JSON files. The project includes both a graphical user interface and a command-line interface, ensuring flexibility for users.
+The LetsCook project is an extensive endeavor that involves designing and implementing a recipe management system. Users can create and update recipes, execute them step by step, and persist recipes as JSON files. The project includes a command-line interface, ensuring flexibility for users.
 
 ### Key Features
 
@@ -20,7 +20,7 @@ The project's lifecycle went through three main stages:
 1. **Project Pitch:**
    - Scope definition and customization of the LetsCook system.
    - Identification of key features and quality requirements.
-   - Presentation of project pitch to the mentor.
+   - Evaluation of project pitch by mentor, received feedback.
 
 2. **Modeling:**
    - Creation of UML diagrams to detail the system's design.
