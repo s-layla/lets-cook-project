@@ -13,7 +13,7 @@ The LetsCook project is an extensive endeavor that involves designing and implem
 - Persistence: Save and load recipes as JSON files from a predefined folder.
 - Bonus Feature: Generate printable recipe documents for offline cooking reference.
 
-# Project Structure
+## Project Structure
 
 The project's lifecycle went through three main stages:
 
