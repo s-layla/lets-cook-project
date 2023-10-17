@@ -31,4 +31,4 @@ The project's lifecycle went through three main stages:
    - Implementation of the LetsCook system based on UML models.
    - Development of features, including recipe management, execution, and persistence.
    - Implementation of the bonus feature - generating printable recipe documents.
-   - Creation of a user-friendly graphical or command-line interface.
+   - Creation of a command-line interface.
